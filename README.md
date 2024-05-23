@@ -13,6 +13,7 @@ https://public.tableau.com/app/profile/nibin.joseph/viz/BankingDashboardBanking/
 
 ![image](https://github.com/nibinkjoseph/Bank-Marketing-project-Nibin/assets/63180074/f337983f-363d-4c22-8fd4-9e0715e8a665)
 
+![image](https://github.com/nibinkjoseph/Bank-Marketing-project-Nibin/assets/63180074/9bca8100-0ebf-4925-9214-5b3c3c3f532c)
 
 
 
